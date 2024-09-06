@@ -1,0 +1,4 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Note		TAR	98	nouvelle taille enregistrement : 98
+Note	AnneeScolaire	RUB-		la rubrique AnneeScolaire est supprimée
+Note	Trimestre	RUB-		la rubrique Trimestre est supprimée

@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Recu		TAR	72	nouvelle taille enregistrement : 72
+Recu	IDEleve	RUB-		la clé IDEleve est supprimée
+Contrainte_Eleve_Recu		DEL	Eleve (IDEleve) et Recu (IDEleve)	Liaison supprimée entre les fichiers Eleve (IDEleve) et Recu (IDEleve)

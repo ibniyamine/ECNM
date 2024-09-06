@@ -1,0 +1,8 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Emargement		TAR	149	nouvelle taille enregistrement : 149
+Emargement	MatriculeEns	RUB+		MatriculeEns est une nouvelle clé
+Emargement	CodeMatiere	RUB+		CodeMatiere est une nouvelle clé
+Contrainte_Emargement_Enseignant		NWL	Enseignant (MatriculeEns) et Emargement (MatriculeEns)	Nouvelle liaison entre les fichiers Enseignant (MatriculeEns) et Emargement (MatriculeEns)
+Contrainte_Emargement_Matiere		NWL	Matiere (CodeMatiere) et Emargement (CodeMatiere)	Nouvelle liaison entre les fichiers Matiere (CodeMatiere) et Emargement (CodeMatiere)
+Contrainte_Enseignant_Emargement		DEL	Enseignant (IDEnseignant) et Emargement (IDEnseignant)	Liaison supprimée entre les fichiers Enseignant (IDEnseignant) et Emargement (IDEnseignant)
+Contrainte_Emargement_Matiere		DEL	Matiere (IDMatiere) et Emargement (IDMatiere)	Liaison supprimée entre les fichiers Matiere (IDMatiere) et Emargement (IDMatiere)

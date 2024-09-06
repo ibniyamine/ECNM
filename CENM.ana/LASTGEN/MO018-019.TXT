@@ -1,0 +1,8 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Note		TAR	115	nouvelle taille enregistrement : 115
+Note	MatriculeEleve	RUB+		MatriculeEleve est une nouvelle clé
+Note	CodeMatiere	RUB+		CodeMatiere est une nouvelle clé
+Contrainte_Eleve_Note		NWL	Eleve (MatriculeEleve) et Note (MatriculeEleve)	Nouvelle liaison entre les fichiers Eleve (MatriculeEleve) et Note (MatriculeEleve)
+Contrainte_Note_Matiere		NWL	Matiere (CodeMatiere) et Note (CodeMatiere)	Nouvelle liaison entre les fichiers Matiere (CodeMatiere) et Note (CodeMatiere)
+Contrainte_Eleve_Note		DEL	Eleve (IDEleve) et Note (IDEleve)	Liaison supprimée entre les fichiers Eleve (IDEleve) et Note (IDEleve)
+Contrainte_Matiere_Note		DEL	Matiere (IDMatiere) et Note (IDMatiere)	Liaison supprimée entre les fichiers Matiere (IDMatiere) et Note (IDMatiere)

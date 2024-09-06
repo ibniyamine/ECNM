@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Cours		TAR	83	nouvelle taille enregistrement : 83
+Cours	IDClas	RUB-		la clé IDClas est supprimée

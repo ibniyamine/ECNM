@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Note		TAR	121	nouvelle taille enregistrement : 121
+Note	AnneeScolaire	RUB+		AnneeScolaire est une nouvelle rubrique
+Note	Trimestre	RUB+		Trimestre est une nouvelle rubrique

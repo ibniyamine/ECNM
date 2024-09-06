@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+EmploiDuTemps		TAR	54	nouvelle taille enregistrement : 54
+EmploiDuTemps	IDMatiere	RUB+		IDMatiere est une nouvelle clé
+Emargement		TAR	152	nouvelle taille enregistrement : 152
+Emargement	IDClas	RUB+		IDClas est une nouvelle clé
+Emargement	IDMatiere	RUB+		IDMatiere est une nouvelle clé
+Contrainte_Emargement_Clas		NWL	Clas (IDClas) et Emargement (IDClas)	Nouvelle liaison entre les fichiers Clas (IDClas) et Emargement (IDClas)
+Contrainte_Emargement_Matiere		NWL	Matiere (IDMatiere) et Emargement (IDMatiere)	Nouvelle liaison entre les fichiers Matiere (IDMatiere) et Emargement (IDMatiere)
+Contrainte_EmploiDuTemps_Matiere		NWL	Matiere (IDMatiere) et EmploiDuTemps (IDMatiere)	Nouvelle liaison entre les fichiers Matiere (IDMatiere) et EmploiDuTemps (IDMatiere)

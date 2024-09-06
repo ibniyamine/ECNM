@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Matiere		TAR	49	nouvelle taille enregistrement : 49
+Matiere	CoefMatiere	RUB-		la rubrique CoefMatiere est supprimée
+Class_matiere		NFI		nouveau fichier

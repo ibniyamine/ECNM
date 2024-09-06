@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Emargement		TAR	136	nouvelle taille enregistrement : 136
+Emargement	IDEnseignant	RUB+		IDEnseignant est une nouvelle clé
+Contrainte_Enseignant_Emargement		NWL	Enseignant (IDEnseignant) et Emargement (IDEnseignant)	Nouvelle liaison entre les fichiers Enseignant (IDEnseignant) et Emargement (IDEnseignant)
+Contrainte_Emargement_Enseignant		DEL	Emargement (IDEmargement) et Enseignant (IDEmargement)	Liaison supprimée entre les fichiers Emargement (IDEmargement) et Enseignant (IDEmargement)

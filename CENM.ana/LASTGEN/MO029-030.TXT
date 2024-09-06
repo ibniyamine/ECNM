@@ -1,0 +1,6 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+Matiere	NomMatiere	CLEU*		la rubrique NomMatiere est maintenant une clé
+Note		TAR	146	nouvelle taille enregistrement : 146
+Note	NomMatiere	RUB+		NomMatiere est une nouvelle clé
+Contrainte_Note_Matiere		NWL	Matiere (NomMatiere) et Note (NomMatiere)	Nouvelle liaison entre les fichiers Matiere (NomMatiere) et Note (NomMatiere)
+Contrainte_Note_Matiere		DEL	Matiere (CodeMatiere) et Note (CodeMatiere)	Liaison supprimée entre les fichiers Matiere (CodeMatiere) et Note (CodeMatiere)

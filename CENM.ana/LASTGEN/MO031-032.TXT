@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Note		TAR	151	nouvelle taille enregistrement : 151
+Note	NomClass	RUB+		NomClass est une nouvelle clé
+Contrainte_Clas_Note		NWL	Clas (NomClass) et Note (NomClass)	Nouvelle liaison entre les fichiers Clas (NomClass) et Note (NomClass)

@@ -1,0 +1,8 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+EmploiDuTemps		TAR	77	nouvelle taille enregistrement : 77
+EmploiDuTemps	CodeClass	RUB+		CodeClass est une nouvelle clé
+EmploiDuTemps	CodeMatiere	RUB+		CodeMatiere est une nouvelle clé
+Contrainte_Clas_EmploiDuTemps		NWL	Clas (CodeClass) et EmploiDuTemps (CodeClass)	Nouvelle liaison entre les fichiers Clas (CodeClass) et EmploiDuTemps (CodeClass)
+Contrainte_EmploiDuTemps_Matiere		NWL	Matiere (CodeMatiere) et EmploiDuTemps (CodeMatiere)	Nouvelle liaison entre les fichiers Matiere (CodeMatiere) et EmploiDuTemps (CodeMatiere)
+Contrainte_Clas_EmploiDuTemps		DEL	Clas (IDClas) et EmploiDuTemps (IDClas)	Liaison supprimée entre les fichiers Clas (IDClas) et EmploiDuTemps (IDClas)
+Contrainte_EmploiDuTemps_Matiere		DEL	Matiere (IDMatiere) et EmploiDuTemps (IDMatiere)	Liaison supprimée entre les fichiers Matiere (IDMatiere) et EmploiDuTemps (IDMatiere)

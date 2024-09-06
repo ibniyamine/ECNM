@@ -1,0 +1,5 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Note		TAR	144	nouvelle taille enregistrement : 144
+Note	NoteDevoir	NNR	Note	ATTENTION : la rubrique Note a pour nouveau nom NoteDevoir
+Note	NoteExament	RUB+		NoteExament est une nouvelle rubrique
+Note	Option	RUB-		la rubrique Option est supprimée

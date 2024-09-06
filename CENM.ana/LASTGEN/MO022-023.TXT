@@ -1,0 +1,9 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Inscription		TAR	123	nouvelle taille enregistrement : 123
+Inscription	NomClass	RUB+		NomClass est une nouvelle clé
+Inscription	MatriculeEleve	RUB+		MatriculeEleve est une nouvelle clé
+Inscription	MatriculeEleve_NomClass	RUB+		MatriculeEleve_NomClass est une nouvelle clé
+Contrainte_Eleve_Clas		NWL	Eleve (MatriculeEleve) et Inscription (MatriculeEleve)	Nouvelle liaison entre les fichiers Eleve (MatriculeEleve) et Inscription (MatriculeEleve)
+Contrainte_Clas_Eleve		NWL	Clas (NomClass) et Inscription (NomClass)	Nouvelle liaison entre les fichiers Clas (NomClass) et Inscription (NomClass)
+Contrainte_Clas_Eleve		DEL	Clas (IDClas) et Eleve (IDClas)	Liaison supprimée entre les fichiers Clas (IDClas) et Eleve (IDClas)
+Contrainte_Inscription_Eleve		DEL	Eleve (IDEleve) et Inscription (IDEleve)	Liaison supprimée entre les fichiers Eleve (IDEleve) et Inscription (IDEleve)

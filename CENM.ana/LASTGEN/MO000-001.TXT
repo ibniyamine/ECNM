@@ -1,0 +1,28 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Enseignant		NFI		nouveau fichier
+Eleve		NFI		nouveau fichier
+Clas		NFI		nouveau fichier
+Cours		NFI		nouveau fichier
+Matiere		NFI		nouveau fichier
+EmploiDuTemps		NFI		nouveau fichier
+Emargement		NFI		nouveau fichier
+Salle		NFI		nouveau fichier
+Recu		NFI		nouveau fichier
+Note		NFI		nouveau fichier
+Inscription		NFI		nouveau fichier
+Eneign_matiere		NFI		nouveau fichier
+Contrainte_Clas_Eleve		NWL	Clas (IDClas) et Eleve (IDClas)	Nouvelle liaison entre les fichiers Clas (IDClas) et Eleve (IDClas)
+Contrainte_Enseignant_Cours		NWL	Enseignant (IDEnseignant) et Cours (IDEnseignant)	Nouvelle liaison entre les fichiers Enseignant (IDEnseignant) et Cours (IDEnseignant)
+Contrainte_Clas_Cours		NWL	Clas (IDClas) et Cours (IDClas)	Nouvelle liaison entre les fichiers Clas (IDClas) et Cours (IDClas)
+Contrainte_Inscription_Eleve		NWL	Eleve (IDEleve) et Inscription (IDEleve)	Nouvelle liaison entre les fichiers Eleve (IDEleve) et Inscription (IDEleve)
+Contrainte_Eleve_Recu		NWL	Eleve (IDEleve) et Recu (IDEleve)	Nouvelle liaison entre les fichiers Eleve (IDEleve) et Recu (IDEleve)
+Contrainte_Eleve_Note		NWL	Eleve (IDEleve) et Note (IDEleve)	Nouvelle liaison entre les fichiers Eleve (IDEleve) et Note (IDEleve)
+Contrainte_Clas_Salle		NWL	Clas (IDClas) et Salle (IDClas)	Nouvelle liaison entre les fichiers Clas (IDClas) et Salle (IDClas)
+Contrainte_Clas_EmploiDuTemps		NWL	Clas (IDClas) et EmploiDuTemps (IDClas)	Nouvelle liaison entre les fichiers Clas (IDClas) et EmploiDuTemps (IDClas)
+Contrainte_Cours_Salle		NWL	Salle (IDSale) et Cours (IDSale)	Nouvelle liaison entre les fichiers Salle (IDSale) et Cours (IDSale)
+Contrainte_Emargement_Enseignant		NWL	Emargement (IDEmargement) et Enseignant (IDEmargement)	Nouvelle liaison entre les fichiers Emargement (IDEmargement) et Enseignant (IDEmargement)
+Contrainte_Enseignant_Eneign_matiere		NWL	Enseignant (IDEnseignant) et Eneign_matiere (IDEnseignant)	Nouvelle liaison entre les fichiers Enseignant (IDEnseignant) et Eneign_matiere (IDEnseignant)
+Contrainte_Eneign_matiere_Matiere		NWL	Matiere (IDMatiere) et Eneign_matiere (IDMatiere)	Nouvelle liaison entre les fichiers Matiere (IDMatiere) et Eneign_matiere (IDMatiere)
+Contrainte_Cours_Matiere		NWL	Matiere (IDMatiere) et Cours (IDMatiere)	Nouvelle liaison entre les fichiers Matiere (IDMatiere) et Cours (IDMatiere)
+Contrainte_Matiere_Note		NWL	Matiere (IDMatiere) et Note (IDMatiere)	Nouvelle liaison entre les fichiers Matiere (IDMatiere) et Note (IDMatiere)
+Salle		FRN		

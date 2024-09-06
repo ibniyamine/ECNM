@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Note		TAR	125	nouvelle taille enregistrement : 125
+Note	AnneAcademique	RUB+		AnneAcademique est une nouvelle rubrique

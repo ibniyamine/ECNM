@@ -1,0 +1,4 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+EmploiDuTemps		TAR	60	nouvelle taille enregistrement : 60
+EmploiDuTemps	IDClas	RUB-		la clé IDClas est supprimée
+EmploiDuTemps	IDMatiere	RUB-		la clé IDMatiere est supprimée

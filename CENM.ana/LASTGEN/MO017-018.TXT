@@ -1,0 +1,5 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Emargement		TAR	160	nouvelle taille enregistrement : 160
+Emargement	CodeClass	RUB+		CodeClass est une nouvelle clé
+Contrainte_Clas_Emargement		NWL	Clas (CodeClass) et Emargement (CodeClass)	Nouvelle liaison entre les fichiers Clas (CodeClass) et Emargement (CodeClass)
+Contrainte_Emargement_Clas		DEL	Clas (IDClas) et Emargement (IDClas)	Liaison supprimée entre les fichiers Clas (IDClas) et Emargement (IDClas)

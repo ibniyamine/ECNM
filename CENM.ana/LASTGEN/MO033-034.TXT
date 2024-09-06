@@ -1,0 +1,5 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Matiere		TAR	79	nouvelle taille enregistrement : 79
+Matiere	NomMatiere	TAI+	30	la rubrique NomMatiere a comme nouvelle taille 51 au lieu de 21
+Note		TAR	174	nouvelle taille enregistrement : 174
+Note	NomMatiere	TAI+	30	la rubrique NomMatiere a comme nouvelle taille 51 au lieu de 21

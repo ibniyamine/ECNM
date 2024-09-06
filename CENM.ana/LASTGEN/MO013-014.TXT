@@ -1,0 +1,4 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Recu		TAR	124	nouvelle taille enregistrement : 124
+Recu	MatriculeEleve	RUB+		MatriculeEleve est une nouvelle clé
+Contrainte_Recu_Eleve		NWL	Eleve (MatriculeEleve) et Recu (MatriculeEleve)	Nouvelle liaison entre les fichiers Eleve (MatriculeEleve) et Recu (MatriculeEleve)

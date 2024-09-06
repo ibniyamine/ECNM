@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Recu		TAR	81	nouvelle taille enregistrement : 81
+Recu	Mois	RUB+		Mois est une nouvelle rubrique

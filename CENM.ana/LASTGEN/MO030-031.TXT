@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Note		TAR	135	nouvelle taille enregistrement : 135
+Note	CodeMatiere	RUB-		la clé CodeMatiere est supprimée

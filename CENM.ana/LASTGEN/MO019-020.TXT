@@ -1,0 +1,4 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Note		TAR	98	nouvelle taille enregistrement : 98
+Note	IDEleve	RUB-		la clé IDEleve est supprimée
+Note	IDMatiere	RUB-		la clé IDMatiere est supprimée

@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Parametre		TAR	25	nouvelle taille enregistrement : 25
+Parametre	NumEleve	RUB+		NumEleve est une nouvelle rubrique
