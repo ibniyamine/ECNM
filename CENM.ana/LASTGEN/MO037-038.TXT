@@ -1,0 +1,6 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+EmploiDuTemps		TAR	97	nouvelle taille enregistrement : 97
+EmploiDuTemps	NumerSal	RUB+		NumerSal est une nouvelle clé
+EmploiDuTemps	MatriculeEns	RUB+		MatriculeEns est une nouvelle clé
+Contrainte_EmploiDuTemps_Salle		NWL	Salle (NumerSal) et EmploiDuTemps (NumerSal)	Nouvelle liaison entre les fichiers Salle (NumerSal) et EmploiDuTemps (NumerSal)
+Contrainte_EmploiDuTemps_Enseignant		NWL	Enseignant (MatriculeEns) et EmploiDuTemps (MatriculeEns)	Nouvelle liaison entre les fichiers Enseignant (MatriculeEns) et EmploiDuTemps (MatriculeEns)
